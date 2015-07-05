@@ -29,7 +29,7 @@
 
 		<?php endwhile; ?>
 		<?php else: ?>
-			<h3>No hay entradas!</h3>
+			<h3>No hay mas entradas!</h3>
 		<?php endif; ?> 
 		
 
